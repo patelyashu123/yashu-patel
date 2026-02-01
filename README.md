@@ -35,14 +35,6 @@
 
 ---
 
-
-📊 GitHub Stats
-![Yashu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelyashu123&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelyashu123&layout=compact)
-
----
-
 📫 Connect With Me
 - GitHub: https://github.com/patelyashu123  
 - Email: Patelyashu46505@gmail.com  
