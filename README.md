@@ -1,4 +1,4 @@
-👋 Hi, I'm Yash Patel  
+👋 Hi, I'm Yashu Patel  
 
 🚀 MERN Stack Developer | Frontend Developer  
 💻 HTML | CSS | JavaScript | React | Node.js | MongoDB  
